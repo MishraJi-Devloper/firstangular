@@ -6,7 +6,7 @@ To use the Friendship Zone web application, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/MishraJi-Devloper/friendship-zone.git
+   git clone https://github.com/MishraJi-Devloper/firstangular.git
    ```
 
    If you haven't installed Git yet, you can download it here: [Git Downloads](https://git-scm.com/downloads).
