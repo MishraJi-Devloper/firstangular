@@ -14,7 +14,7 @@ To use the Friendship Zone web application, follow these steps:
 2. Navigate to the project directory:
 
    ```bash
-   cd friendship-zone
+   cd firstangular
    ```
 
 3. Open the HTML files in your web browser:
