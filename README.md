@@ -1,4 +1,4 @@
----
+
 ## Usage
 
 To use the Friendship Zone web application, follow these steps:
@@ -27,4 +27,3 @@ To use the Friendship Zone web application, follow these steps:
 
 4. Explore the features and interact with the web application.
 
----
